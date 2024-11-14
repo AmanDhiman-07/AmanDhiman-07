@@ -8,7 +8,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=amandhiman-07&label=Profile%20views&color=0e75b6&style=flat" alt="amandhiman-07"/> </p>
 
-- 🌱 I’m currently learning **Full Stack fronted developer**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanDhiman-07/Protfolio.git](https://github.com/AmanDhiman-07/Protfolio.git)
 
